@@ -11,11 +11,11 @@ header {
 
 body {
     margin: 0;
-    background-image: url("/images/Original Pic.jpg");
+    background-image: url("/images/Ruby.jpg");
     background-size: cover;  
     background-repeat: repeat-x;
     background-attachment: fixed;
-    background-size: 75% 100%;
+    background-size: 65%;
     background-position: center;
     min-height: 100vh;
     display: flex;
